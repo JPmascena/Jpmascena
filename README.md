@@ -1,7 +1,18 @@
-![João Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPmascena&show_icons=true&theme=dracula)
+## Hello World! My name is João Paulo
+ 
+
+![João Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPmascena&show_icons=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPmascena&layout=pie)](https://github.com/JPmascena/github-readme-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 [![Linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-paulo-mascena-gomes-740676224/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_paulo.mas//)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/joao_paulo.mas//)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_paulo.mas//)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_paulo.mas//)
 
 
@@ -20,3 +31,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPmascena&hide_progress=true)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
