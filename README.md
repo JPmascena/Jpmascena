@@ -13,8 +13,8 @@
   <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPmascena&layout=compact&hide_border=true&title_color=ADD8E6&text_color=ADD8E6&bg_color=0d1117" />
 </div>
 
-<br><p 
-align="centre"><b>Contratcs</b></p>  
+
+### Studying in this moment:
 <div align="center"> 
 
 <a href = "mailto:cmp.1a.joaopaulomascenagomes@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -24,6 +24,8 @@ align="centre"><b>Contratcs</b></p>
  
 ### Main skills:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+
 
 ### Studying in this moment:
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
