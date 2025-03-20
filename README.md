@@ -2,7 +2,7 @@
 <h1 align="center">🙏 I'm João Paulo</h1>
 
 <h4 align="left">
-🌟 I work on Front-end development and web designing while focusing on Data Science and AI/ML. Pursuing my degree in computer science and learning programming for my career. Currently working on my programming skills and exploring the IT field to gain immense knowledge. Simply to make money 💸.
+🌟 
 </h4>
 
 ### ⚙️ GitHub Analytics
